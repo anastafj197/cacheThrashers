@@ -1,0 +1,50 @@
+Exeggutor  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 Spe  
+Bashful Nature  
+- Sleep Powder  
+- Explosion  
+- Psychic  
+- Double-Edge  
+
+Tauros  
+Ability: Intimidate  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 Spe  
+Bashful Nature  
+- Hyper Beam  
+- Body Slam  
+- Earthquake  
+- Fire Blast  
+
+Chansey  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 Spe  
+Bashful Nature  
+- Ice Beam  
+- Soft-Boiled  
+- Thunder Wave  
+- Thunderbolt  
+
+Jolteon  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 Spe  
+Bashful Nature  
+- Thunderbolt  
+- Thunder Wave  
+- Double Kick  
+- Pin Missile  
+
+Golem  
+Ability: Rock Head  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 Spe  
+Bashful Nature  
+- Earthquake  
+- Rock Slide  
+- Explosion  
+- Body Slam  
+
+Slowbro  
+Ability: Oblivious  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 Spe  
+- Surf  
+- Psychic  
+- Amnesia  
+- Rest  
