@@ -1,0 +1,6 @@
+5
+me you High High none none 100.0 100.0 100.0 100.0 100.0 100.0 -50.0 100.0 100.0 100.0 0 0 0 0 0 0 0 0 0 0 
+poke1 poke2 High High none none 100.0 100.0 100.0 100.0 100.0 100.0 -50.0 100.0 100.0 100.0 0 0 0 0 0 0 0 0 0 0 
+Exeggutor Alakazam High High none none 100.0 100.0 100.0 100.0 100.0 -14.5 100.0 100.0 -1.0 100.0 0 0 0 0 0 2 0 0 2 0 
+Tauros Alakazam High High none none 100.0 100.0 100.0 100.0 -12.0 100.0 100.0 100.0 100.0 100.0 0 0 0 0 2 0 0 0 0 0 
+Golem Charizard High High none none 100.0 100.0 100.0 100.0 -10.0 100.0 100.0 100.0 100.0 100.0 0 0 0 0 1 0 0 0 0 0 
